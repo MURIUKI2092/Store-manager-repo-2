@@ -1,2 +1,2 @@
 # Store-manager-repo-2
-Store manager repo 2
+This repository contains some restful Apis for the store Manager app, which  manages a store in their daily routines. The app has two  users, the Admin/Manager and the attendants. The attendants mostly participates in the selling of the items of the store creating sales while the Admin/Manager creates new user account and also views the sales created. There are other added functions of both the users and the Admin. 
